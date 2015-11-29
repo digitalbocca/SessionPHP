@@ -5,10 +5,18 @@ Arquivos do tutorial sobre Session no PHP com AJAX. Refatoração de um código 
 
 [Indentacao Wikipedia](https://goo.gl/OFLcCr "Indentacao Wikipedia")
 
+[PSR 1 PT-BR](http://goo.gl/ja6aV7 "PSR 1 PT-BR")
+
+[PSR 2 PT-BR](http://goo.gl/SBS4Mg "PSR 2 PT-BR")
+
+[PHP Tags](http://goo.gl/UKv1Fq "PHP Tags")
+
 [Intoducao SESSION PHP](http://goo.gl/fH5mEg "Intoducao SESSION PHP")
 
 [session_start() - PHP](http://goo.gl/hlV20S "session_start() - PHP")
+
 [session_destroy() - PHP](http://goo.gl/1w8uOS "session_destroy() - PHP")
+
 [ob_start() - PHP](http://goo.gl/B3s82K "ob_start() - PHP")
 
 [Operadores de Controle de Erro - PHP](http://goo.gl/jmJJmO "Operadores de Controle de Erro - PHP")
@@ -16,4 +24,5 @@ Arquivos do tutorial sobre Session no PHP com AJAX. Refatoração de um código 
 [CDN Jquery Google](https://goo.gl/WT4p6F "CDN Jquery Google")
 
 [Ajax Jquery](http://goo.gl/PrF03g "Ajax Jquery")
+
 [Ajax Jquery GET Simplificado](http://goo.gl/KvLZmz "Ajax Jquery GET Simplificado")
